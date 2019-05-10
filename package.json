@@ -1,0 +1,24 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "Number and name of feature: Feature #2: Modify the contents",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabdi21/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabdi21/Portfolio/issues"
+  },
+  "homepage": "https://github.com/sabdi21/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
